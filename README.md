@@ -24,7 +24,7 @@ All configuration files such as your YAML file can be placed under PROJECT_ROOT_
 
 ## Tasks
 
-### `createStartupScrips`
+### `createStartupScripts`
 will generate startup scripts for your application for unix and windows
 
 ### `distTar`
