@@ -1,4 +1,4 @@
-package com.berico.gradle.dropwizard.plugin
+package com.bericotech.gradle.dropwizard.plugin
 
 
 class DropWizardPluginExtension {
