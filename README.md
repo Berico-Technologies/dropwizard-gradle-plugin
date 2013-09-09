@@ -12,7 +12,7 @@ buildscript {
     }
     
     dependencies {
-       classpath group: 'com.berico', name: 'DropwizardPlugin', version: '1.0'
+       classpath group: 'com.berico', name: 'DropwizardPlugin', version: '1.1'
     }
 }
 
@@ -23,9 +23,6 @@ All configuration files such as your YAML file can be placed under PROJECT_ROOT_
 
 
 ## Tasks
-
-### `createStartupScripts`
-will generate startup scripts for your application for unix and windows
 
 ### `distTar`
 Will bundle your application and startup scripts into a tar file
@@ -52,7 +49,7 @@ buildscript {
 		}
 	}
 	dependencies {
-		classpath group: 'com.berico', name: 'DropwizardPlugin', version: '1.0'
+		classpath group: 'com.bericotech', name: 'DropwizardPlugin', version: '1.0'
 	}
 }
 
