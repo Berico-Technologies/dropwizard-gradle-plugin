@@ -12,7 +12,7 @@ buildscript {
     }
     
     dependencies {
-       classpath group: 'com.berico', name: 'DropwizardPlugin', version: '1.1'
+       classpath group: 'com.berico', name: 'dropwizard-gradle-plugin', version: '1.1'
     }
 }
 
